@@ -4,7 +4,7 @@
 
 // Adapted from math/big/ftoa.go.
 
-package v2
+package apd
 
 import (
 	"fmt"
